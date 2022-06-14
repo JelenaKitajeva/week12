@@ -1,0 +1,16 @@
+C:\Users\lena_\source\repos\WorkingWithFiles\WorkingWithFiles\bin\Debug\net5.0\WorkingWithFiles.exe
+C:\Users\lena_\source\repos\WorkingWithFiles\WorkingWithFiles\bin\Debug\net5.0\WorkingWithFiles.deps.json
+C:\Users\lena_\source\repos\WorkingWithFiles\WorkingWithFiles\bin\Debug\net5.0\WorkingWithFiles.runtimeconfig.json
+C:\Users\lena_\source\repos\WorkingWithFiles\WorkingWithFiles\bin\Debug\net5.0\WorkingWithFiles.runtimeconfig.dev.json
+C:\Users\lena_\source\repos\WorkingWithFiles\WorkingWithFiles\bin\Debug\net5.0\WorkingWithFiles.dll
+C:\Users\lena_\source\repos\WorkingWithFiles\WorkingWithFiles\bin\Debug\net5.0\ref\WorkingWithFiles.dll
+C:\Users\lena_\source\repos\WorkingWithFiles\WorkingWithFiles\bin\Debug\net5.0\WorkingWithFiles.pdb
+C:\Users\lena_\source\repos\WorkingWithFiles\WorkingWithFiles\obj\Debug\net5.0\WorkingWithFiles.csproj.AssemblyReference.cache
+C:\Users\lena_\source\repos\WorkingWithFiles\WorkingWithFiles\obj\Debug\net5.0\WorkingWithFiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lena_\source\repos\WorkingWithFiles\WorkingWithFiles\obj\Debug\net5.0\WorkingWithFiles.AssemblyInfoInputs.cache
+C:\Users\lena_\source\repos\WorkingWithFiles\WorkingWithFiles\obj\Debug\net5.0\WorkingWithFiles.AssemblyInfo.cs
+C:\Users\lena_\source\repos\WorkingWithFiles\WorkingWithFiles\obj\Debug\net5.0\WorkingWithFiles.csproj.CoreCompileInputs.cache
+C:\Users\lena_\source\repos\WorkingWithFiles\WorkingWithFiles\obj\Debug\net5.0\WorkingWithFiles.dll
+C:\Users\lena_\source\repos\WorkingWithFiles\WorkingWithFiles\obj\Debug\net5.0\ref\WorkingWithFiles.dll
+C:\Users\lena_\source\repos\WorkingWithFiles\WorkingWithFiles\obj\Debug\net5.0\WorkingWithFiles.pdb
+C:\Users\lena_\source\repos\WorkingWithFiles\WorkingWithFiles\obj\Debug\net5.0\WorkingWithFiles.genruntimeconfig.cache

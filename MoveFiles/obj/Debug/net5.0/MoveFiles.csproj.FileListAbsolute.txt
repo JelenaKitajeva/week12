@@ -1,0 +1,16 @@
+C:\Users\lena_\source\repos\WorkingWithFiles\MoveFiles\bin\Debug\net5.0\MoveFiles.exe
+C:\Users\lena_\source\repos\WorkingWithFiles\MoveFiles\bin\Debug\net5.0\MoveFiles.deps.json
+C:\Users\lena_\source\repos\WorkingWithFiles\MoveFiles\bin\Debug\net5.0\MoveFiles.runtimeconfig.json
+C:\Users\lena_\source\repos\WorkingWithFiles\MoveFiles\bin\Debug\net5.0\MoveFiles.runtimeconfig.dev.json
+C:\Users\lena_\source\repos\WorkingWithFiles\MoveFiles\bin\Debug\net5.0\MoveFiles.dll
+C:\Users\lena_\source\repos\WorkingWithFiles\MoveFiles\bin\Debug\net5.0\ref\MoveFiles.dll
+C:\Users\lena_\source\repos\WorkingWithFiles\MoveFiles\bin\Debug\net5.0\MoveFiles.pdb
+C:\Users\lena_\source\repos\WorkingWithFiles\MoveFiles\obj\Debug\net5.0\MoveFiles.csproj.AssemblyReference.cache
+C:\Users\lena_\source\repos\WorkingWithFiles\MoveFiles\obj\Debug\net5.0\MoveFiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lena_\source\repos\WorkingWithFiles\MoveFiles\obj\Debug\net5.0\MoveFiles.AssemblyInfoInputs.cache
+C:\Users\lena_\source\repos\WorkingWithFiles\MoveFiles\obj\Debug\net5.0\MoveFiles.AssemblyInfo.cs
+C:\Users\lena_\source\repos\WorkingWithFiles\MoveFiles\obj\Debug\net5.0\MoveFiles.csproj.CoreCompileInputs.cache
+C:\Users\lena_\source\repos\WorkingWithFiles\MoveFiles\obj\Debug\net5.0\MoveFiles.dll
+C:\Users\lena_\source\repos\WorkingWithFiles\MoveFiles\obj\Debug\net5.0\ref\MoveFiles.dll
+C:\Users\lena_\source\repos\WorkingWithFiles\MoveFiles\obj\Debug\net5.0\MoveFiles.pdb
+C:\Users\lena_\source\repos\WorkingWithFiles\MoveFiles\obj\Debug\net5.0\MoveFiles.genruntimeconfig.cache

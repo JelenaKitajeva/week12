@@ -1,0 +1,15 @@
+C:\Users\lena_\source\repos\WorkingWithFiles\DisplayFiles\bin\Debug\net5.0\DisplayFiles.exe
+C:\Users\lena_\source\repos\WorkingWithFiles\DisplayFiles\bin\Debug\net5.0\DisplayFiles.deps.json
+C:\Users\lena_\source\repos\WorkingWithFiles\DisplayFiles\bin\Debug\net5.0\DisplayFiles.runtimeconfig.json
+C:\Users\lena_\source\repos\WorkingWithFiles\DisplayFiles\bin\Debug\net5.0\DisplayFiles.runtimeconfig.dev.json
+C:\Users\lena_\source\repos\WorkingWithFiles\DisplayFiles\bin\Debug\net5.0\DisplayFiles.dll
+C:\Users\lena_\source\repos\WorkingWithFiles\DisplayFiles\bin\Debug\net5.0\ref\DisplayFiles.dll
+C:\Users\lena_\source\repos\WorkingWithFiles\DisplayFiles\bin\Debug\net5.0\DisplayFiles.pdb
+C:\Users\lena_\source\repos\WorkingWithFiles\DisplayFiles\obj\Debug\net5.0\DisplayFiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lena_\source\repos\WorkingWithFiles\DisplayFiles\obj\Debug\net5.0\DisplayFiles.AssemblyInfoInputs.cache
+C:\Users\lena_\source\repos\WorkingWithFiles\DisplayFiles\obj\Debug\net5.0\DisplayFiles.AssemblyInfo.cs
+C:\Users\lena_\source\repos\WorkingWithFiles\DisplayFiles\obj\Debug\net5.0\DisplayFiles.csproj.CoreCompileInputs.cache
+C:\Users\lena_\source\repos\WorkingWithFiles\DisplayFiles\obj\Debug\net5.0\DisplayFiles.dll
+C:\Users\lena_\source\repos\WorkingWithFiles\DisplayFiles\obj\Debug\net5.0\ref\DisplayFiles.dll
+C:\Users\lena_\source\repos\WorkingWithFiles\DisplayFiles\obj\Debug\net5.0\DisplayFiles.pdb
+C:\Users\lena_\source\repos\WorkingWithFiles\DisplayFiles\obj\Debug\net5.0\DisplayFiles.genruntimeconfig.cache

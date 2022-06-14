@@ -1,0 +1,16 @@
+C:\Users\lena_\source\repos\WorkingWithFiles\CreateFiles\bin\Debug\net5.0\CreateFiles.exe
+C:\Users\lena_\source\repos\WorkingWithFiles\CreateFiles\bin\Debug\net5.0\CreateFiles.deps.json
+C:\Users\lena_\source\repos\WorkingWithFiles\CreateFiles\bin\Debug\net5.0\CreateFiles.runtimeconfig.json
+C:\Users\lena_\source\repos\WorkingWithFiles\CreateFiles\bin\Debug\net5.0\CreateFiles.runtimeconfig.dev.json
+C:\Users\lena_\source\repos\WorkingWithFiles\CreateFiles\bin\Debug\net5.0\CreateFiles.dll
+C:\Users\lena_\source\repos\WorkingWithFiles\CreateFiles\bin\Debug\net5.0\ref\CreateFiles.dll
+C:\Users\lena_\source\repos\WorkingWithFiles\CreateFiles\bin\Debug\net5.0\CreateFiles.pdb
+C:\Users\lena_\source\repos\WorkingWithFiles\CreateFiles\obj\Debug\net5.0\CreateFiles.csproj.AssemblyReference.cache
+C:\Users\lena_\source\repos\WorkingWithFiles\CreateFiles\obj\Debug\net5.0\CreateFiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lena_\source\repos\WorkingWithFiles\CreateFiles\obj\Debug\net5.0\CreateFiles.AssemblyInfoInputs.cache
+C:\Users\lena_\source\repos\WorkingWithFiles\CreateFiles\obj\Debug\net5.0\CreateFiles.AssemblyInfo.cs
+C:\Users\lena_\source\repos\WorkingWithFiles\CreateFiles\obj\Debug\net5.0\CreateFiles.csproj.CoreCompileInputs.cache
+C:\Users\lena_\source\repos\WorkingWithFiles\CreateFiles\obj\Debug\net5.0\CreateFiles.dll
+C:\Users\lena_\source\repos\WorkingWithFiles\CreateFiles\obj\Debug\net5.0\ref\CreateFiles.dll
+C:\Users\lena_\source\repos\WorkingWithFiles\CreateFiles\obj\Debug\net5.0\CreateFiles.pdb
+C:\Users\lena_\source\repos\WorkingWithFiles\CreateFiles\obj\Debug\net5.0\CreateFiles.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\lena_\source\repos\WorkingWithFiles\DeliteFiles\bin\Debug\net5.0\DeliteFiles.exe
+C:\Users\lena_\source\repos\WorkingWithFiles\DeliteFiles\bin\Debug\net5.0\DeliteFiles.deps.json
+C:\Users\lena_\source\repos\WorkingWithFiles\DeliteFiles\bin\Debug\net5.0\DeliteFiles.runtimeconfig.json
+C:\Users\lena_\source\repos\WorkingWithFiles\DeliteFiles\bin\Debug\net5.0\DeliteFiles.runtimeconfig.dev.json
+C:\Users\lena_\source\repos\WorkingWithFiles\DeliteFiles\bin\Debug\net5.0\DeliteFiles.dll
+C:\Users\lena_\source\repos\WorkingWithFiles\DeliteFiles\bin\Debug\net5.0\ref\DeliteFiles.dll
+C:\Users\lena_\source\repos\WorkingWithFiles\DeliteFiles\bin\Debug\net5.0\DeliteFiles.pdb
+C:\Users\lena_\source\repos\WorkingWithFiles\DeliteFiles\obj\Debug\net5.0\DeliteFiles.csproj.AssemblyReference.cache
+C:\Users\lena_\source\repos\WorkingWithFiles\DeliteFiles\obj\Debug\net5.0\DeliteFiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lena_\source\repos\WorkingWithFiles\DeliteFiles\obj\Debug\net5.0\DeliteFiles.AssemblyInfoInputs.cache
+C:\Users\lena_\source\repos\WorkingWithFiles\DeliteFiles\obj\Debug\net5.0\DeliteFiles.AssemblyInfo.cs
+C:\Users\lena_\source\repos\WorkingWithFiles\DeliteFiles\obj\Debug\net5.0\DeliteFiles.csproj.CoreCompileInputs.cache
+C:\Users\lena_\source\repos\WorkingWithFiles\DeliteFiles\obj\Debug\net5.0\DeliteFiles.dll
+C:\Users\lena_\source\repos\WorkingWithFiles\DeliteFiles\obj\Debug\net5.0\ref\DeliteFiles.dll
+C:\Users\lena_\source\repos\WorkingWithFiles\DeliteFiles\obj\Debug\net5.0\DeliteFiles.pdb
+C:\Users\lena_\source\repos\WorkingWithFiles\DeliteFiles\obj\Debug\net5.0\DeliteFiles.genruntimeconfig.cache
